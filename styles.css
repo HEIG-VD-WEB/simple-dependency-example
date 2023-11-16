@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+.post-container {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.post-title {
+  color: #007BFF;
+  font-size: 1.2em;
+}
+
+.post-body {
+  color: #333;
+}
